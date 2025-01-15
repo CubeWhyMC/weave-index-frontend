@@ -11,7 +11,7 @@
         </a>
 
         <a href="https://discord.gg/yq33NBT2rv">
-            <button class="btn btn-primary">Discord (origin author)</button>
+            <button class="btn btn-primary">Discord (Weave)</button>
         </a>
     </div>
 </main>
